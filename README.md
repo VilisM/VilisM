@@ -7,8 +7,6 @@
 ### FiveM Script Developer
 [![FiveM Script Developer](https://skillicons.dev/icons?i=lua,html,css,js,ts,react)](#)
 <br>
-##
-![My Discord](https://discord-readme-badge.vercel.app/api?id=299922791203864577)
 
 <details>
 <summary>Github Statistics</summary>
